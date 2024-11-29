@@ -1,9 +1,10 @@
 console.log("Hello Wordl")
 console.log("Cambio 4")
 console.log("cambio de nuevo")
+console.log("rama del programador 1")
+console.log("otro cambio")
 
-console.log("Rama del programador 2")
-console.log("Haciendo merge del programador 2 al main");
+console.log("Cambios para el merge del programador 1 al main")
+console.log("Cambiosssssssss")
 
-
-
+console.log("Cambio para hacer el merge de programador 1 a main")
